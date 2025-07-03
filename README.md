@@ -6,7 +6,7 @@ Passionate about AI, Machine Learning, and Data Science, I’m a Computer Scienc
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rajatsingh2774) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajat.singh.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajat-singh-6558aa294) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RAJAT_073) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatsingh2774@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=C++,python,numpy,pandas,matplotlib,seaborn,scikit-learn,tensorflow,pytorch,keras,git,github,flask,django,latex,html,css,javascript,heroku,vercel,render,streamlit,tailwind,mysql,sqlite,cnava,figmabootstrap&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,keras,git,github,flask,django,latex,html,css,javascript,heroku,vercel,render,streamlit,tailwind,mysql,sqlite,cnava,figma,bootstrap&perline=8)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rajat2774&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
