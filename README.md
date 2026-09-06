@@ -1,5 +1,29 @@
 <table>
 <tr>
+<td width="45%" align="center">
+
+<img src="ascii.png" width="400">
+
+</td>
+<td width="55%">
+
+## About Me:
+🎓 I'm an AI Engineer passionate about Agentic AI, Large Language Models (LLMs), and Full-Stack AI Development. <br>
+🛠️ Comfortable across the stack — from DSA-heavy problem solving in Python, C++, and Java to building full-stack products with ReactJS,NodeJS,ExpressJS, Django, Flask, HTML, CSS, and JavaScript.<br>
+🎨 I care about how things look as much as how they work, so I bring design thinking into my builds using Figma and Canva.<br>
+🌱 Always learning, always shipping — I enjoy turning half-formed ideas into real, usable products.<br>
+🚀 Open to collaborating on anything AI, web, or design-related — let's build something great together!
+
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajat.singh.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-singh-6558aa294) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RAJAT_073) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatsingh2774@gmail.com) 
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
 <td width="500">
 
 <img src="ascii.png" width="500">
@@ -10,8 +34,7 @@
 #  About Me:
 Passionate about AI, Machine Learning, and Data Science, I'm a Computer Science Undergrad student, skilled in Python, C++, and Java with a strong foundation in Data Structures and Algorithms.<br>I build scalable, user-focused solutions using full-stack web technologies...
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajat.singh.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-singh-6558aa294) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RAJAT_073) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatsingh2774@gmail.com) 
+
 
 </td>
 </tr>
